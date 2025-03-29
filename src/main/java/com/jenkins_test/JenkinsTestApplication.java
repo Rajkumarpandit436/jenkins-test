@@ -16,12 +16,8 @@ public class JenkinsTestApplication {
 	@PostConstruct
 	public void start(){
 		System.out.println("post construct is executed....!");
-		System.out.println("application stated.111......!");
-		System.out.println("application stated....2222...!");
-		System.out.println("application stated.3333......!");
-		System.out.println("application stated..4444.....!");
-		System.out.println("application stated...55555....!");
 		System.out.println("authenticate with app password...........!");
+		System.out.println("dev, qa, prod pipeline created..........!");
 	}
 
 }
