@@ -9,6 +9,11 @@ public class JenkinsTestApplication {
 
 	public static void main(String[] args) {
 		System.out.println("application stated.......!");
+		System.out.println("application stated.111......!");
+		System.out.println("application stated....2222...!");
+		System.out.println("application stated.3333......!");
+		System.out.println("application stated..4444.....!");
+		System.out.println("application stated...55555....!");
 		SpringApplication.run(JenkinsTestApplication.class, args);
 	}
 
