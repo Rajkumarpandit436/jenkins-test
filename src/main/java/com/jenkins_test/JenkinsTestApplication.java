@@ -21,6 +21,7 @@ public class JenkinsTestApplication {
 		System.out.println("application stated.3333......!");
 		System.out.println("application stated..4444.....!");
 		System.out.println("application stated...55555....!");
+		System.out.println("authenticate with app password...........!");
 	}
 
 }
